@@ -4,8 +4,9 @@ import maya.cmds as mc
 from matrix_deform.lib import MatrixDeform
 from matrix_deform.nodes.matrixBend import MatrixBend
 from matrix_deform.nodes.matrixWave import MatrixWave
+from matrix_deform.nodes.matrixTwist import MatrixTwist
 
-nodes = [MatrixDeform, MatrixBend, MatrixWave]
+nodes = [MatrixDeform, MatrixBend, MatrixWave, MatrixTwist]
 
 
 # initializePlugin
