@@ -4,9 +4,9 @@ A set of Maya nodes to deform a transformation matrix by the algorithms used in 
 *Note: This is not ready for production in its current stage. It's a draft
 implementation!*
 
-In version 0.0.1 the *matrixBend* should be completely functional and the
-*matrixWave* should be close to completion, but is there solely to show how
-the algorithm is supposed to be implemented.
+In version 0.0.2 the *matrixBend* and *matrixTwist* should be completely 
+functional and the *matrixWave* should be close to completion (untested), but 
+is there solely to show how the algorithm is supposed to be implemented.
 
 With version 0.1.0 the approximation deformer will also be included together
 with the finished *matrixWave* deformer.
