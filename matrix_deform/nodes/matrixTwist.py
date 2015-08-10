@@ -5,7 +5,7 @@ from matrix_deform.lib import MatrixDeform
 
 
 class MatrixTwist(MatrixDeform):
-    """The matrix deformation by the non-linear bend algorithm."""
+    """The matrix deformation by the non-linear twist algorithm."""
 
     # default
     id = om.MTypeId(0x0010A52E)
